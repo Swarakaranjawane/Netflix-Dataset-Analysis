@@ -13,10 +13,10 @@ This project aims to analyze a Netflix dataset to uncover trends, patterns, and 
    - Includes detailed attributes of Netflix content such as show ID, type (Movie/TV Show), title, director, cast, date added, release year, rating, duration, and calculated fields.
 
 2. **Country**
-   - Contains information on countries producing Netflix content along with associated ratings.
+   - Contains information on countries producing Netflix content.
 
 3. **Genre**
-   - Includes genre details for each title along with release year and a unique genre ID.
+   - Includes genre details for each title along with a unique genre ID.
 
 ## Data Cleaning Steps
 
@@ -26,13 +26,15 @@ This project aims to analyze a Netflix dataset to uncover trends, patterns, and 
 - Split multi-valued fields (e.g., genres) into separate rows.
 
 ### Netflix Titles
-- Added calculated columns:
+- Added columns using Power Query:
   - **Actor Count:** Number of actors in the cast.
   - **Added Year:** Extracted year from the `date_added` field.
   - **Content Age:** Calculated age of the content.
   - **Count of Genre:** Number of genres associated with each title.
   - **Number of Seasons:** Extracted from the `duration` field.
   - **Minutes:** Calculated total minutes for movies and TV shows.
+
+- Added calculated columns:
   - **Duration Category:** Categorized duration into short, medium, and long.
   - **Actor Count Range:** Grouped actor counts into ranges.
 
@@ -112,5 +114,4 @@ The analysis provides insights into:
 - Dataset inspiration from Kaggle.
 - Support from peers and mentors in data science.
 
-**For questions or contributions, feel free to contact me at [swarakaranjawane@gmail.com].**
 
