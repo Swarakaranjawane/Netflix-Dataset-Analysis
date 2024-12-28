@@ -81,7 +81,7 @@ This project aims to analyze a Netflix dataset to uncover trends, patterns, and 
    ```bash
    git clone https://github.com/Swarakaranjawane/Netflix-Dataset-Analysis.git 
    ```
-2. Open the Power BI file (`Netflix_Analysis.pbix`) for interactive visualizations.
+2. Open the Power BI file (`Netflix_Dataset.pbix`) for interactive visualizations.
 3. Review the cleaned dataset files and documentation.
 
 ## Visualizations
