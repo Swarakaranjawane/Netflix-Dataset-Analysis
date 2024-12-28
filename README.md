@@ -3,9 +3,6 @@
 ## Project Overview
 This project aims to analyze a Netflix dataset to uncover trends, patterns, and insights related to content types, genres, countries, ratings, and more. Using tools like Power BI and advanced data cleaning techniques, the analysis explores the evolution of Netflix's content library and provides valuable visualizations to understand its dynamics better.
 
-## Project Description
-This project focuses on dissecting Netflix's extensive library by analyzing Movies and TV Shows. The dataset is divided into three main tables: Netflix Titles, Country, and Genre. The analysis includes identifying trends, comparing content characteristics, and exploring global content distributions. Advanced Power BI features like DAX, slicers, and drill-through pages are utilized to create engaging and insightful visualizations.
-
 ## Dataset Details
 
 ### Source
