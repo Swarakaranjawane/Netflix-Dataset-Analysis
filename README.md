@@ -94,9 +94,8 @@ This project aims to analyze a Netflix dataset to uncover trends, patterns, and 
 - Heatmaps and treemaps for content popularity.
 - Slicers for interactive filtering.
 
-## Screenshots/Demo Links
-- **Demo Link:**
-  [https://drive.google.com/drive/u/0/folders/10l7e7sj44XzkHaYRE4KqBb9r1JedfPHy]
+## Demo Link
+  https://drive.google.com/drive/u/0/folders/10l7e7sj44XzkHaYRE4KqBb9r1JedfPHy
 
 ## Conclusions
 The analysis provides insights into:
